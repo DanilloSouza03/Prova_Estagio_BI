@@ -48,6 +48,8 @@ Demonstrar habilidades em automação, extração de dados e análise utilizando
   - Utilizada para escrever o script e análises.
 - 📓 **Jupyter Notebook** (Editor de Código).
 	- Utilizado para fazer limpeza e análises dos dados.
+- 💡 **Power BI** (DataViz).
+ 	- Utilizado para criar as visualizações dos dados.
 - 💻 **Visual Studio Code** (Editor de Código).
 	- Utilizado para fazer codar o script.
 - 🎋 **Pandas** (biblioteca Python para análise de dados).
